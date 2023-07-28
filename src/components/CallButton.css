@@ -1,0 +1,52 @@
+.callBtn{
+    background-color: red;
+    color: white;
+    border-color: transparent;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+}
+.sos{
+    text-decoration: none;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.wrapperButton{
+    position: fixed;
+    bottom: 5%;
+    z-index: 100;
+}
+
+.callBtn{
+    /* position: absolute; */
+    bottom: 5%;
+    transform: translateX(950%);
+    position: sticky;
+}
+
+
+
+@media (max-width: 768px) {
+    /* Adjust button size and font size for smaller screens */
+    .callBtn {
+      width: 5rem;
+      height: 5rem;
+      transform: translateX(470%);
+    }
+  
+    .sos {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    /* Adjust button position for even smaller screens */
+    .callBtn {
+      bottom: 2%;
+      right: 2%;
+      transform: translateX(340%);
+    }
+  }
+  

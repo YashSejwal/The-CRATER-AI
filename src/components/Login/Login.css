@@ -1,0 +1,75 @@
+.loginElement{
+    font-size: 24px !important;
+    margin-bottom: 20px;
+}
+
+.loginForm{
+    max-width: 700px;
+     /* margin: 0 auto; */
+    padding: 20px 20px;
+}
+
+#signform{
+  width: 1000px;
+}
+
+.inputLabels{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.mainBtn{
+  border-radius: 20px;
+  background-color: pink;
+  
+}
+
+.formlogin{
+  min-width: 500px;
+  height: 90rem;
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.radio-group label {
+  margin-right: 15px;
+}
+
+.loginBtn{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.loginBtn:hover{
+    background-color: #0056b3;
+}
+
+.lines{
+    display: inline-block;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2px;
+    margin-left: 2rem;
+}
+
+#username{
+  font-size: 22px !important;
+}

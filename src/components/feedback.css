@@ -1,0 +1,10 @@
+@media (max-width: 680px) {
+    /* Adjust button size and font size for smaller screens */
+    .flex {
+     flex-direction: column !important;
+    }}
+
+@media (max-width: 480px) {
+        /* Adjust button size and font size for smaller screens */
+        .flex {
+         flex-direction: column;}}   

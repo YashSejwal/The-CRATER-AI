@@ -1,0 +1,33 @@
+.doctors{
+    display: flex !important;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    border: 2px solid black;
+    height: 20rem;
+}
+
+.card-img-top{
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width:6rem;
+    margin-top: 2rem;
+}
+.card-body{
+    margin-top: 2rem;
+    border-top: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mainbtn{
+    background-color:"pink";
+    padding:"10px 20px";
+    color:"black";
+}
