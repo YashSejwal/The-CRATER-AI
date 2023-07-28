@@ -1,13 +1,6 @@
 # Crater AI
 
-## AI
-POWERED
-Get
-
-arrow-up
-Started
-
-Business Manager for All !
+## AI POWERED Business Manager for All !
 ![image](https://github.com/YashSejwal/HealthcareUp/assets/63971462/b86b4aee-f8cb-4505-8538-c3068436e002)
 
 Get all your
