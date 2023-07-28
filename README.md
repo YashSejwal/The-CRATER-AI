@@ -1,7 +1,7 @@
 # Crater AI
 
 ## AI POWERED Business Manager for All !
-![image]([https://github.com/YashSejwal/HealthcareUp/assets/63971462/b86b4aee-f8cb-4505-8538-c3068436e002](https://github.com/YashSejwal/The-CRATER-AI/blob/main/src/assets/INTRO.png))
+![image](https://github.com/YashSejwal/HealthcareUp/assets/63971462/b86b4aee-f8cb-4505-8538-c3068436e002])
 
 Get all your
 Platform Data.
